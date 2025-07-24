@@ -1,0 +1,7 @@
+# Required Packages
+speedtest-cli
+
+# Standard Libraries Used (no need to install)
+# tkinter
+# logging
+# datetime
